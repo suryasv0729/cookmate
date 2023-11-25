@@ -129,4 +129,3 @@ const init= function(){
 newFeature();
 }
 init();
-console.log(BUG);

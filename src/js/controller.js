@@ -113,10 +113,6 @@ window.history.pushState(null, '' , `#${model.state.recipe.id}`);
   }
 }
 
-const newFeature = function(){
-  console.log('welcome to the application');
-}
-
 
 const init= function(){
   bookmarksView.addHandlerRender(controlBookmarks)
@@ -126,6 +122,6 @@ const init= function(){
   searchView.addHandlerSearch(controlSearchResults); 
   paginationView.addHandlerClick(controlPagination);
   AddRecipeView.addHandlerUpload(controlUpload)
-newFeature();
+
 }
 init();

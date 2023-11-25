@@ -113,7 +113,9 @@ window.history.pushState(null, '' , `#${model.state.recipe.id}`);
   }
 }
 
-
+const newFeature = function(){
+  console.log('welcome to the application');
+}
 
 
 const init= function(){
@@ -124,5 +126,7 @@ const init= function(){
   searchView.addHandlerSearch(controlSearchResults); 
   paginationView.addHandlerClick(controlPagination);
   AddRecipeView.addHandlerUpload(controlUpload)
+newFeature();
 }
 init();
+console.log(BUG);

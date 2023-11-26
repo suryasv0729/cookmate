@@ -6,12 +6,12 @@ Welcome to my cooking application! This project is a web application that allows
 ![Screenshot 2023-11-26 102203](https://github.com/suryasv0729/cookmate/assets/134188383/e8062f82-d57e-4bff-8b70-081e84301fb2)
 
 ## Features
-* Recipe Search: Easily search for recipes by entering the recipe name or ingredient name.
-* Pagination: Navigate through different pages of search results, with each page displaying 10 recipes.
-* Recipe View: Click on search results to view detailed information about a recipe in the recipe view container.
-* Bookmarking: Save your favorite recipes for future reference by bookmarking them. Bookmarks are stored in the local storage for persistent access.
-* Custom Recipes: Add your own recipes to the application. The recipe form follows a specific format to input data.
-Serving Size Adjustment: Dynamically adjust the serving size, and the ingredients will automatically update accordingly.
+* **Recipe Search:** Easily search for recipes by entering the recipe name or ingredient name.
+* **Pagination:** Navigate through different pages of search results, with each page displaying 10 recipes.
+* **Recipe View:** Click on search results to view detailed information about a recipe in the recipe view container.
+* **Bookmarking:** Save your favorite recipes for future reference by bookmarking them. Bookmarks are stored in the local storage for persistent access.
+* **Custom Recipes:** Add your own recipes to the application. The recipe form follows a specific format to input data.
+* **Serving Size Adjustment:** Dynamically adjust the serving size, and the ingredients will automatically update accordingly.
 
 ## Usage
 Search for Recipes:
@@ -38,4 +38,4 @@ Adjust Serving Size:
 If you have suggestions, enhancements, or bug fixes, feel free to open an issue or submit a pull request. Your contributions are greatly appreciated!
 
 ## Acknowledgments
-This project was developed during the learning process. Special thanks to the ### Jonas Schmedtmann
+This project was developed during the learning process. Special thanks to the **Jonas Schmedtmann**

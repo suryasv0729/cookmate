@@ -35,4 +35,4 @@ Adjust Serving Size:
 If you have suggestions, enhancements, or bug fixes, feel free to open an issue or submit a pull request. Your contributions are greatly appreciated!
 
 ## Acknowledgments
-This project was developed during the learning process. Special thanks to the Forkify API for providing recipe data.
+This project was developed during the learning process. Special thanks to the (Jonas Schmedtmann) Forkify API for providing recipe data.

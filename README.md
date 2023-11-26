@@ -1,6 +1,7 @@
 # Cookmate
 
 Welcome to my cooking application! This project is a web application that allows users to search for recipes using either the recipe name or ingredient name. The application utilizes the Forkify API to fetch recipe data and provides a user-friendly interface for exploring and managing recipes.
+![Screenshot 2023-11-26 102203](https://github.com/suryasv0729/cookmate/assets/134188383/e8062f82-d57e-4bff-8b70-081e84301fb2)
 
 ## Features
 * Recipe Search: Easily search for recipes by entering the recipe name or ingredient name.
